@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : นายชวิน เกตุภาค
 
-GitHub Page URL : https://cpe207.github.io/lab07-ChawinKatpark/index.html
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-ChawinKatpark/
 
 ---
 
