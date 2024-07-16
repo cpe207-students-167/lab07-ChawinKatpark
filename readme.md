@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660612142
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : นายชวิน เกตุภาค
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207.github.io/lab07-ChawinKatpark/index.html
 
 ---
 
